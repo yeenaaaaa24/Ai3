@@ -96,19 +96,19 @@ content_data = {
     },
     labels[1]: {
         'images': [
-            "https://img.hankyung.com/photo/202108/01.27299472.1.jpg",
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-BSzFTK9i-nR87CRKDnrXMHEunWSTW_pyDw&s",
-            "https://health.chosun.com/site/data/img_dir/2021/10/29/2021102901567_0.jpg"
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYyb6xEfeBBxRxKVUqf-0X_fJGf-M6kSTwtw&s",
+            "https://image.ytn.co.kr/general/jpg/2017/0308/201703080900063506_d.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxD3FFPGPxOz0nHJtZbHxWx1hl5yScqfWa0TUpZGtLrbj3Ntu_vLDoP8to7-H_47QBhAc&usqp=CAU"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=p03auyh8s6Y",
-            "https://www.youtube.com/watch?v=p03auyh8s6Y",
-            "https://www.youtube.com/watch?v=-OnyIn26pKE"
+            "https://www.youtube.com/watch?v=iZofSkQC9wc",
+            "https://www.youtube.com/watch?v=E4inX5Ri6D8",
+            "https://www.youtube.com/watch?v=E4inX5Ri6D8"
         ],
         'texts': [
-            "망단비대증 입니다",
-            "심각한 말단비대증입니다",
-            "말단비대증으로 보입니다"
+            "다운증후군 입니다",
+            "심각한 다운증후군입니다",
+            "다운증후으로 보입니다"
         ]
     },
     labels[2]: {
@@ -123,9 +123,9 @@ content_data = {
             "https://www.youtube.com/watch?v=iZofSkQC9wc"
         ],
         'texts': [
-            "거인증 입니다.",
-            "심각한 거인증 입니다",
-            "거인증으로 보입니다"   
+            "말단비대증 입니다.",
+            "말단비대증 입니다",
+            "말단비대증으로 보입니다"   
        
         ]
     }

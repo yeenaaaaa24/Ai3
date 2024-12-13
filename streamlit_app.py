@@ -79,19 +79,19 @@ st.markdown("""
 content_data = {
     labels[0]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label1_Image1",
-            "https://via.placeholder.com/300?text=Label1_Image2",
-            "https://via.placeholder.com/300?text=Label1_Image3"
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRp2o3lJhMKPSO0fEGuSgu3z9OIfR-6D0HBA&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVYgiW9fwU224Am5LXTWc0HEn4XhtSLlJW6g&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQExly5LKAe9arcPrYAF1l6t4USOAshV-8XS17V4XSgUlP7TOeeWSIUBoeT9VjN0XH9IKU&usqp=CAU"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://www.youtube.com/watch?v=p03auyh8s6Y&t=1s",
+            "https://www.youtube.com/watch?v=YZYlC-Seg18",
+            "https://www.youtube.com/watch?v=-OnyIn26pKE"
         ],
         'texts': [
-            "Label 1 관련 첫 번째 텍스트 내용입니다.",
-            "Label 1 관련 두 번째 텍스트 내용입니다.",
-            "Label 1 관련 세 번째 텍스트 내용입니다."
+            "거인증 입니다",
+            "심각한 거인증 입니다",
+            "거인증으로 입니다."
         ]
     },
     labels[1]: {

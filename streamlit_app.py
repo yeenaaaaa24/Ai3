@@ -69,29 +69,8 @@ st.markdown("""
         max-width: 90%;
         padding-top: 1rem;
         padding-right: 1rem;
-        padding-left: 1rem;
-        padding-bottom: 1rem;
-    }
-    </style>
-    """, unsafe_allow_html=True)
-
-# 분류에 따라 다른 콘텐츠 관리
-content_data = {
-    labels[0]: {
-        'images': [
-            "https://img.mbn.co.kr/filewww/news/2021/04/29/1619694081608a9201190ab.jpg",
-            "https://health.chosun.com/site/data/img_dir/2005/10/06/c2005100656029_01.jpg",
-            "https://m.segye.com/content/image/2018/11/25/20181125786910.jpg"
-        ],
-        'videos': [
-            "https://www.youtube.com/watch?v=wltwF4r4OBc",
-            "https://www.youtube.com/watch?v=FLnZ2Tum20Y",
-            "https://www.youtube.com/watch?v=OyBn7uinhGk"
-        ],
-        'texts': [
-            "말단비대증 입니다.",
-            "심각한 말단비대증 입니다.",
-            "말단비대증으로 보보입니다."
+        padding-l증 입니다.",
+            "말단비대증으로 보입니다."
         ]
     },
     labels[1]: {
@@ -106,9 +85,9 @@ content_data = {
             "https://www.youtube.com/watch?v=-OnyIn26pKE"
         ],
         'texts': [
-            "거인증 입니다",
+            "망단비대증 입니다",
             "심각한 거인증입니다",
-            "거인증으로 보입니다다"
+            "거인증으로 보입니다"
         ]
     },
     labels[2]: {
@@ -123,9 +102,9 @@ content_data = {
             "https://www.youtube.com/watch?v=iZofSkQC9wc"
         ],
         'texts': [
-            "다운증후군 입니다.",
-            "심각한 다운증후군 입니다",
-            "다운 증후군으로 보입니다"   
+            "거인증 입니다.",
+            "심각한 거인증 입니다",
+            "거인증으로 보입니다"   
        
         ]
     }

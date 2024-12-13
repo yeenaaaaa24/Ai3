@@ -78,56 +78,58 @@ st.markdown("""
 content_data = {
     labels[0]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label1_Image1",
-            "https://via.placeholder.com/300?text=Label1_Image2",
-            "https://via.placeholder.com/300?text=Label1_Image3"
+            "https://img.mbn.co.kr/filewww/news/2021/04/29/1619694081608a9201190ab.jpg",
+            "https://health.chosun.com/site/data/img_dir/2005/10/06/c2005100656029_01.jpg",
+            "https://m.segye.com/content/image/2018/11/25/20181125786910.jpg"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://www.youtube.com/watch?v=wltwF4r4OBc",
+            "https://www.youtube.com/watch?v=FLnZ2Tum20Y",
+            "https://www.youtube.com/watch?v=OyBn7uinhGk"
         ],
         'texts': [
-            "Label 1 관련 첫 번째 텍스트 내용입니다.",
-            "Label 1 관련 두 번째 텍스트 내용입니다.",
-            "Label 1 관련 세 번째 텍스트 내용입니다."
+            "말단비대증 입니다.",
+            "심각한 말단비대증 입니다.",
+            "말단비대증으로 보보입니다."
         ]
     },
     labels[1]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label2_Image1",
-            "https://via.placeholder.com/300?text=Label2_Image2",
-            "https://via.placeholder.com/300?text=Label2_Image3"
+            "https://img.hankyung.com/photo/202108/01.27299472.1.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-BSzFTK9i-nR87CRKDnrXMHEunWSTW_pyDw&s",
+            "https://health.chosun.com/site/data/img_dir/2021/10/29/2021102901567_0.jpg"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
+            "https://www.youtube.com/watch?v=p03auyh8s6Y",
+            "https://www.youtube.com/watch?v=p03auyh8s6Y",
+            "https://www.youtube.com/watch?v=-OnyIn26pKE"
         ],
         'texts': [
-            "중국냉면",
-            "짜장면",
-            "짬뽕"
+            "거인증 입니다",
+            "심각한 거인증입니다",
+            "거인증으로 보입니다다"
         ]
     },
     labels[2]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label3_Image1",
-            "https://via.placeholder.com/300?text=Label3_Image2",
-            "https://via.placeholder.com/300?text=Label3_Image3"
+            "https://newsimg.hankookilbo.com/cms/articlerelease/2020/09/06/0b0c6eab-4b7e-413f-813a-23604a85a109.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFLD5C0JzzHhat0D_ljFVf6GcA_gMQOAFSO6w0cY-WjIsX_mP8X6cPY61D6_Z59wb6TzU&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMH_eJtB_GV7bfdU-7fG40YfA7orRV-UiVDg&s"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://www.youtube.com/watch?v=1ROwgiKrsB8",
+            "https://www.youtube.com/watch?v=E4inX5Ri6D8",
+            "https://www.youtube.com/watch?v=iZofSkQC9wc"
         ],
         'texts': [
-            "Label 3 관련 첫 번째 텍스트 내용입니다.",
-            "Label 3 관련 두 번째 텍스트 내용입니다.",
-            "Label 3 관련 세 번째 텍스트 내용입니다."
+            "다운증후군 입니다.",
+            "심각한 다운증후군 입니다",
+            "다운 증후군으로 보입니다   ],
+       
         ]
     }
-}
+    
+        
 
 # 레이아웃 설정
 left_column, right_column = st.columns([1, 2])  # 왼쪽과 오른쪽의 비율 조정

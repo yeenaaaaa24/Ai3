@@ -56,5 +56,5 @@ st.image("https://img.wkorea.com/w/2022/10/style_634f9b4c8c907-500x354-166616193
 
 # 7. 유튜브 링크 (썸네일 표시)
 st.write("유튜브 동영상 예제")
-st.video("https://www.youtube.com/watch?v=B2iAodr0fOo")
+st.video("https://www.youtube.com/watch?v=QnCT0Au68oE")
 

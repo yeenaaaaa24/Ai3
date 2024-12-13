@@ -75,7 +75,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # 분류에 따라 다른 콘텐츠 관리
-content_data = {
+content_data = 
     labels[0]: {
         'images': [
             "https://img.mbn.co.kr/filewww/news/2021/04/29/1619694081608a9201190ab.jpg",

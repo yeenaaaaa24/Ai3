@@ -70,7 +70,7 @@ st.markdown("""
         padding-top: 1rem;
         padding-right: 1rem;
         padding-l증 입니다.",
-            "말단비대증으로 보입니다."
+            
         ]
     },
     labels[1]: {
